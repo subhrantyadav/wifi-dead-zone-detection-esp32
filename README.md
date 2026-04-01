@@ -1,5 +1,8 @@
 # WiFi Dead Zone Detection and Network Mapping using ESP32
 
+## Screenshots
+[Screenshot](file_00000000ecd471fa923db427e56f0778.png)
+
 ## Description
 This project uses ESP32 to detect WiFi dead zones and analyze network signal strength. It helps identify weak connectivity areas and improve network coverage.
 
