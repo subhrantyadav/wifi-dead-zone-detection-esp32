@@ -1,15 +1,20 @@
-# WiFi Dead Zone Detection using ESP32
+# WiFi Dead Zone Detection and Network Mapping using ESP32
 
 ## Description
-This project detects WiFi dead zones and analyzes network signal strength using ESP32.
+This project uses ESP32 to detect WiFi dead zones and analyze network signal strength. It helps identify weak connectivity areas and improve network coverage.
 
 ## Features
-- Detect weak signal areas  
-- Analyze WiFi strength  
+- Detect weak WiFi signal areas  
+- Analyze signal strength  
+- Identify dead zones  
 
 ## Technologies Used
 - ESP32  
-- Programming Language  
+- Embedded Programming  
+- Networking Basics  
+
+## How It Works
+The ESP32 scans available WiFi networks and measures signal strength (RSSI). Based on the data, weak zones are identified.
 
 ## Purpose
-To identify and improve network coverage.
+To improve WiFi coverage and optimize network performance.
